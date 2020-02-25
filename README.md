@@ -1,5 +1,5 @@
 # Library-App
-Library commadline application
+A commandline library application
 
 
 # Librarian key 
