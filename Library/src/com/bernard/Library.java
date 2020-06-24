@@ -99,10 +99,7 @@ public class Library {
             countForBook = 0;
             countForUser = 0;
         }
-//        System.out.println(book);
-//        System.out.println(queue);
         queue.clear();
-//        System.out.println(queue);
     }
 
     //lending based on priority
@@ -118,23 +115,3 @@ public class Library {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
