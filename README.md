@@ -1,5 +1,5 @@
 # demo-virtual-library
-A commandline library application. Where registered users can borrow books.
+A commandline virtual library application where registered users can borrow books.
 
 ## Description
 * The library can only be opened for use by a registered librarian.
